@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Live - Match Center",
+  "description": "High-performance live cricket match center featuring real-time ball-by-ball commentary, win probability, scorecards, betting odds, and tournament stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
